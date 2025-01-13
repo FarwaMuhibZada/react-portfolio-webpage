@@ -24,10 +24,10 @@ function Footer() {
       </div>
 
       <div className="footer__copyright">
-        <small>&Copy; FM All Right Reserved</small>
+        <small>&copy; 2025 FM rights reserved</small>
       </div>
     </footer>
   )
 }
 
-export default Footer
+export default Footer;
