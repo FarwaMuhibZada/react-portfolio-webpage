@@ -28,7 +28,7 @@
 
 ## 🚀 Live Demo 
 
-- <a href="https://farwa-muhibzada-portfolio-a1vvx8mjh-farwamuhibzadas-projects.vercel.app/" target="_blank">Live Demo Link</a>
+- <a href="https://farwa-muhibzada-portfolio-5bljhmm91-farwamuhibzadas-projects.vercel.app/" target="_blank">Live Demo Link</a>
 
 
 <!-- GETTING STARTED -->
