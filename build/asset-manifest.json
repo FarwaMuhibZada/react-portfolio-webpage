@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.887f1a04.css",
+    "main.js": "/static/js/main.efa63ad1.js",
+    "static/media/drum.PNG": "/static/media/drum.5a5234397be0378b0f75.PNG",
+    "static/media/cv.pdf": "/static/media/cv.1676dcdc83730930d888.pdf",
+    "static/media/me.png": "/static/media/me.821ecddcb9953b46bf75.png",
+    "static/media/space.PNG": "/static/media/space.fd633c98e033848afb66.PNG",
+    "static/media/me-about.jpg": "/static/media/me-about.fb4452e7f286d3636ef9.jpg",
+    "static/media/certificate_js.png": "/static/media/certificate_js.7c89804e7221a811746b.png",
+    "static/media/Screenshot (807).png": "/static/media/Screenshot (807).f1ee1201664e66d0d580.png",
+    "static/media/c3.png": "/static/media/c3.59e354f71ae7516d3e98.png",
+    "static/media/tech.PNG": "/static/media/tech.67ba3c476050e07a5775.PNG",
+    "static/media/qoute.PNG": "/static/media/qoute.4bc517572151a770dbaa.PNG",
+    "static/media/cashregister.png": "/static/media/cashregister.2a3e207fcbaf6218b5de.png",
+    "static/media/pokimon.png": "/static/media/pokimon.8222dbfd135eada24530.png",
+    "index.html": "/index.html",
+    "main.887f1a04.css.map": "/static/css/main.887f1a04.css.map",
+    "main.efa63ad1.js.map": "/static/js/main.efa63ad1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.887f1a04.css",
+    "static/js/main.efa63ad1.js"
+  ]
+}
