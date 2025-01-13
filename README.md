@@ -19,8 +19,7 @@
 
 ### Key Features:
 - **Responsive Design:** Build a mobile-friendly and visually appealing website using CSS3.  
-- **React Integration:** Set up a React app with React Icons and use `useState` for interactive components.  
-- **SwiperJS:** Add carousels/slides to showcase portfolio items.  
+- **React Integration:** Set up a React app with React Icons and use `useState` for interactive components.   
 - **Multiple Contact Options:** Enable EmailJS for form submissions, and integrate WhatsApp and Facebook Messenger.  
 - **Deployment:** Host your portfolio on platforms like Netlify, Vercel, or GitHub Pages.
 
@@ -29,7 +28,7 @@
 
 ## 🚀 Live Demo 
 
-- <a href="https://space-traveler-hub-farwamuhibzada.netlify.app/" target="_blank">Live Demo Link</a>
+- <a href="https://farwa-muhibzada-portfolio-a1vvx8mjh-farwamuhibzadas-projects.vercel.app/" target="_blank">Live Demo Link</a>
 
 
 <!-- GETTING STARTED -->
@@ -43,8 +42,8 @@ To get a local copy up and running, follow these steps.
 Clone this repository to your desired folder:
 
 ```sh
-  git clone https://github.com/farwamuhibzada/space_travelers_hub
-  cd space_travelers_hub
+  git clone https://github.com/farwamuhibzada/react-portfolio-webpage
+  cd react-portfolio-webpage
 ```
 
 ### Install
@@ -88,16 +87,6 @@ To to build for the production, execute the following command:
 
 - GitHub: [Farwa Muhibzada](https://github.com/FarwaMuhibZada)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/farwamohibzada/)
-
-👤 **Sumita Baloch**
-
-- GitHub: [Sumita Baloch](https://github.com/S-BLH)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sumita-balouch-959197309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-
-👤 **Masoma Rezaie**
-
-- GitHub: [Masoma Rezaie](https://github.com/MasomRezaie)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/miss-masoma-99b85522a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
 <!-- CONTRIBUTING -->
