@@ -3,6 +3,7 @@ import CTA from './CTA'
 import './header.css'
 import ME from '../../assets/me.png';
 import HeaderSocial from './HeaderSocials'
+
 function Header() {
   return (
     <header>

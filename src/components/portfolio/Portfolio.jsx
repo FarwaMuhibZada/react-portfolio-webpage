@@ -7,10 +7,6 @@ import IMG4 from '../../assets/tech.PNG'
 import IMG5 from '../../assets/pokimon.png'
 import IMG6 from '../../assets/drum.PNG'
 
-
-
-
-
 function Portfolio() {
   return (
     <section id='portfolio'>

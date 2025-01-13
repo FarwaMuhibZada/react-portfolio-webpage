@@ -3,6 +3,7 @@ import './contact.css'
 import {MdOutlineEmail} from "react-icons/md";
 import {BsLinkedin} from 'react-icons/bs'
 import { BsWhatsapp } from 'react-icons/bs';
+
 function Contact() {
   return (
     <section id='contact'>
